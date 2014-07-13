@@ -1,0 +1,11 @@
+html{
+    background: url(../images/Mascot-bg.png) no-repeat center center fixed; 
+    -webkit-background-size: size;
+    -webkit-transition: opacity 1s linear;
+    -moz-background-size: size;
+    -o-background-size: size;
+    background-size: size;
+    background-position: right;
+    width:50%;
+    height:50%;
+}
