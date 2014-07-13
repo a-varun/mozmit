@@ -6,6 +6,7 @@ html{
     -o-background-size: size;
     background-size: size;
     background-position: right;
+    background-opacity: 0.8;
     width:50%;
     height:50%;
 }
